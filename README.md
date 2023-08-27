@@ -10,7 +10,7 @@ and create a folder “weights” and put them inside.
 
 ```python
 git clone https://github.com/nkshash/licence-plate-detect.git
-cd licence-plate-detect-master
+cd license_plate_recognition-master
 ```
 
 # Inference Script
